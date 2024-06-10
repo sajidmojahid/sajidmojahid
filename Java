@@ -1,0 +1,10 @@
+import java.lang.*;
+public class Start
+{
+	public static void main(String[]args)
+	{
+		System.out.println("Name : Md. Sajid Hossen ");
+		System.out.println("ID : 23-54922-3");
+		System.out.println("Section : C ");
+	}
+}
